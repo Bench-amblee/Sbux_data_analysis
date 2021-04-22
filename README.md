@@ -1,4 +1,4 @@
 # Starbucks Calories Data Analysis
 Code: [Notebook](starbucks_data_analysis.ipynb)
 
-![image](chart_marks_png)
+![image](chart_marks.png)
